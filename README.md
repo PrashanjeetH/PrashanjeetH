@@ -12,8 +12,6 @@ Python :heart: | Developer :muscle: | Football :soccer:
 
 
 <!--
- 
-Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -26,8 +24,8 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning `Django`.
-- 💬 Ask me about `python basic` `web development` `web security` `Date Structure` 
-- 🤔 I’m looking for help with django along with `Scrapy` instance.
+- 💬 Ask me about `python basic` `web development` `web security` `Data Structure` 
+- 🤔 I’m looking for help with django integrated with `Scrapy` instance.
 - 📫 How to reach me- :link: [Prashanjeet Haldar](https://prashanjeet.com)
 - ⚡ Fun fact: There are more than 700 _programming languages_ out there and you have to master only one :sparkles:!
 
