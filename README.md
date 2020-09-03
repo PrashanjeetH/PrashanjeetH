@@ -1,5 +1,7 @@
-### Hello World! 
-##### I am Prashanjeet:man_technologist:. A tech nerd :brain: focused on Web Development, management :mechanic: and security :beetle:.
+### Hello World! :wave:
+<img src="https://github.com/PrashanjeetH/portfolio/blob/master/assets/ezgif.com-crop.gif" width="80%">
+
+##### A tech nerd :brain: focused on Web Development, management :mechanic: and security :beetle:.
 
 ```python
 from worldNameBook import prashanjeetHaldar as Jeetu 
@@ -10,7 +12,7 @@ Python :heart: | Developer :muscle: | Football :soccer:
 
 
 <!--
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+ 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
