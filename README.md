@@ -23,7 +23,7 @@ Python :heart: | Developer :muscle: | Football :soccer:
 -->
 
 
-- 🌱 I’m currently learning `Django`.
+- 🌱 I’m currently learning `Django` on `AWS` lightsail/EC2.
 - 💬 Ask me about `python basic` `web development` `web security` `Data Structure` 
 - 🤔 I’m looking for help with django integrated with `Scrapy` instance.
 - 📫 How to reach me- :link: [Prashanjeet Haldar](https://prashanjeet.com)
