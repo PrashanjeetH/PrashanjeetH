@@ -23,10 +23,10 @@ Python :heart: | Developer :muscle: | Football :soccer:
 -->
 
 
-- 🌱 I’m currently learning `Django` on `AWS` lightsail/EC2.
-- 💬 Ask me about `python basic` `web development` `web security` `Data Structure` 
+- 🌱 I’m currently learning `Django`.
+- 💬 Ask me about `Python Basic` `Web Development` `Web Security` `Data Structure` 
 - 🤔 I’m looking for help with django integrated with `Scrapy` instance.
 - 📫 How to reach me- :link: [Prashanjeet Haldar](https://prashanjeet.com)
-- ⚡ Fun fact: There are more than 700 _programming languages_ out there and you have to master only one :sparkles:!
+- ⚡ Fun fact: There are more than 700 _programming languages_ out there and you have to master only **1** :sparkles:!
 
  - :100: : _When you're not practising, someone else is getting better!_
