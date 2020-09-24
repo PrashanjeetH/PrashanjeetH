@@ -23,9 +23,9 @@ Python :heart: | Developer :muscle: | Football :soccer:
 -->
 
 
-- 🌱 I’m currently learning `Django`.
+- 🌱 I’m currently learning `Django` with `Scrapy` framework.
 - 💬 Ask me about `Python Basic` `Web Development` `Web Security` `Data Structure` 
-- 🤔 I’m looking for help with django integrated with `Scrapy` instance.
+- 🤔 I’m looking for help with Django live data scrapping.
 - 📫 How to reach me- :link: [Prashanjeet Haldar](https://prashanjeet.com)
 - ⚡ Fun fact: There are more than 700 _programming languages_ out there and you have to master only **1** :sparkles:!
 
