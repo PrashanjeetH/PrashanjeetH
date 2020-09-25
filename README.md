@@ -13,7 +13,7 @@
 from worldNameBook import prashanjeetHaldar as Jeetu 
 ```
 
-Python :heart: | Developer :muscle: | Football :soccer:
+<p align="center">Python :heart: | Developer :muscle: | Football :soccer: </p>
 
 
 
@@ -39,4 +39,5 @@ Python :heart: | Developer :muscle: | Football :soccer:
 ![My github stats](https://github-readme-stats.vercel.app/api?username=PrashanjeetH&show_icons=true&theme=dracula&count_private=true&hide=prs)
 
 
- - :100: : _When you're not practising, someone else is getting better!_
+ >:100: : ___When you're not practising, someone else is getting better!___
+ 
