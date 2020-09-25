@@ -29,4 +29,7 @@ Python :heart: | Developer :muscle: | Football :soccer:
 - 📫 How to reach me- :link: [Prashanjeet Haldar](https://prashanjeet.com)
 - ⚡ Fun fact: There are more than 700 _programming languages_ out there and you have to master only **1** :sparkles:!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashanjeetH&layout=compact)](https://github.com/PrashanjeetH/Django_Practise)
+
+
  - :100: : _When you're not practising, someone else is getting better!_
