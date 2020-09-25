@@ -1,4 +1,10 @@
-### Hello World! :wave:
+<p align="center">
+<!--
+<img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+ <p align="center">Get dynamically generated GitHub stats on your readmes!</p> -->
+ <b>Hello World!</b> :wave:
+</p>
 <img src="https://github.com/PrashanjeetH/portfolio/blob/master/assets/ezgif.com-crop.gif" width="100%">
 
 ##### A tech nerd :brain: focused on Web Development, management :mechanic: and security :beetle:.
@@ -29,7 +35,8 @@ Python :heart: | Developer :muscle: | Football :soccer:
 - 📫 How to reach me- :link: [Prashanjeet Haldar](https://prashanjeet.com)
 - ⚡ Fun fact: There are more than 700 _programming languages_ out there and you have to master only **1** :sparkles:!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashanjeetH&layout=compact)](https://github.com/PrashanjeetH/Django_Practise)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashanjeetH&layout=compact)
+![My github stats](https://github-readme-stats.vercel.app/api?username=PrashanjeetH&show_icons=true&theme=dracula&count_private=true&hide=prs)
 
 
  - :100: : _When you're not practising, someone else is getting better!_
