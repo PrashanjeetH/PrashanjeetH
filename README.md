@@ -31,7 +31,7 @@ from worldNameBook import prashanjeetHaldar as Jeetu
 
 - 🌱 I’m currently learning `Django` with `Scrapy` framework.
 - 💬 Ask me about `Python Basic` `Web Development` `Web Security` `Data Structure` `C`
-- 🤔 I’m looking for help with Django live data scrapping and to convert [Creator](https://github.com/PrashanjeetH/Creator.git) for Windows. 
+- 🤔 I’m looking for help with Django live data scrapping and update [Creator](https://github.com/PrashanjeetH/Creator.git). 
 - 📫 How to reach me- :link: [Prashanjeet Haldar](https://prashanjeet.com)
 - ⚡ Fun fact: There are more than 700 _programming languages_ out there and you have to master only **1** :sparkles:!
 
