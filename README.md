@@ -26,3 +26,6 @@ from worldNameBook import prashanjeetHaldar as Jeetu
 
  >:100: : ___When you're not practising, someone else is getting better!___
  
+
+
+- P.S. If my profile shows Javascript files more than python thats only because using open source! :P
