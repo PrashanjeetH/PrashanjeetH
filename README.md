@@ -1,7 +1,7 @@
 <p align="center">
  <b>Hello World!</b> :wave:
 </p>
-<img src="https://github.com/PrashanjeetH/portfolio/blob/master/assets/ezgif.com-crop.gif" width="100%">
+<img src="" width="100%">
 
 ##### A tech nerd :brain: focused on Web Development, management :mechanic: and security :beetle:.
 
