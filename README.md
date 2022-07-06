@@ -1,7 +1,7 @@
 <p align="center">
  <b>Hello World!</b> :wave:
 </p>
-<img src="" width="100%">
+[comment]: <> <img src="" width="100%">
 
 ##### A tech nerd :brain: focused on Web Development, management :mechanic: and security :beetle:.
 
